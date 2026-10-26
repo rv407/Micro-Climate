@@ -1,5 +1,33 @@
 AtmoSync: Micro-Climate Arbitrage Analytics
-<img width="1705" height="115" alt="image" src="https://github.com/user-attachments/assets/7778b1fd-7b86-4b54-b7ce-ec980a94483e" />
-Understanding Micro-Climates
-<img width="541" height="55" alt="image" src="https://github.com/user-attachments/assets/c0747fea-2cb8-474f-91ef-eedd33de6f38" />
-A micro-climate is the climate of a small, specific restricted area—such as a shipping container, greenhouse, or storage unit—that differs from the surrounding general climate<img width="2194" height="47" alt="image" src="https://github.com/user-attachments/assets/919636f7-f8e9-4e7c-b15c-ad2e083988fd" />
+
+(Understanding Of Micro-Climates)
+
+A micro-climate is the climate of a small, specific restricted area—such as a shipping container, greenhouse, or storage unit—that differs from the surrounding general climate.
+
+(Purpose of AtmoSync)
+
+AtmoSync processes structured weather datasets to simulate, clean, and analyze environmental conditions across 100 isolated containers, enabling clear visibility into temperature and humidity patterns.
+
+(Core Project Objectives)
+
+Data Extraction & Generation:-
+
+Process source weather data into a clean, container-wise dataset with 5,000 records.
+
+Data Cleaning & Validation:-
+
+Remove nulls, handle missing values, and validate schema integrity using Python.
+
+Exploratory Data Analysis (EDA)
+
+Calculate statistical summaries, correlations, and climate type distributions.
+
+(Interactive Dashboard Visualization)
+
+Build a professional Microsoft Power BI dashboard for dynamic reporting and exploration
+
+
+
+
+
+
